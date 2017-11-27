@@ -1,4 +1,4 @@
-# SpeedRacingTVMobile
+# SpeedRacingTV Mobile
 Mobile Client for SpeedRacing.tv
 ---------------------------------
 
